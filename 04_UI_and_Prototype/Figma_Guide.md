@@ -2,7 +2,7 @@
 
 ## The Figma link
 
-**Figma project and prototype:** ______________________ *(paste your Figma share link here)*
+**Figma project and prototype: https://www.figma.com/design/9skTpxOwxnCHXDdeo67bpJ/WICKLIGHT---The-Little-Candle?node-id=1-8&t=m6Q1D3js7kT79V0H-1
 
 ## How to open the Figma prototype
 
