@@ -13,7 +13,7 @@
 
 ## 1. Short pitch
 
-You are a little candle lost in a dark cave. Collect five glowing embers, jump over spikes, avoid the moths and reach the exit door before your 60 seconds run out.
+You are a little candle lost in a dark cave. Collect five glowing embers, jump over spikes, avoid the moths and reach the exit door before your 60 seconds run out
 
 ## 2. Target audience
 
