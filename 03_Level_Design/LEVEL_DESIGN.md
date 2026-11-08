@@ -70,7 +70,7 @@
 
 ## Can the player make every jump?
 
-Yes. The candle can jump 3 tiles up and over a gap of 4 tiles. Every jump on the route is smaller than this.
+Yes. The candle can jump 3 tiles up and over a gap of 4 tiles. Every jump on the route is smaller than this
 
 | Jump | Up | Gap | OK? |
 |---|:---:|:---:|:---:|
