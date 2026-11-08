@@ -20,7 +20,7 @@ You are a little candle in a dark cave. Collect 5 embers, jump over spikes, stay
 
 ## How to look at the project
 
-You do not need to install anything.
+You do not need to install anything!
 
 1. **Read the documents.** On GitHub, click a `.md` file. It opens as a page with pictures.
 2. **Look at the pictures.** Click any `.png` file.
